@@ -27,4 +27,4 @@ jobs:
         with:
           file: ./Dockerfile
           push: true
-          tags: gresakm/coder-image:java_development
+          tags: gresakm/coder-image:development
